@@ -1,2 +1,3 @@
 # WUM-project-1
-Machine learning - classification algorithms
+The goal of the project is implementation of machine learning classification algorithm.\
+Full description later...
